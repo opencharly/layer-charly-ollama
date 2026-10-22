@@ -1,5 +1,23 @@
 # charly-ollama
 
+> **RETIRED — this carrier no longer publishes anything. It is archived right after this
+> notice lands, and read-only from that point on.** Its one skill, `ollama-layer`, now lives
+> beside the candy it describes:
+> **[opencharly/pod-ollama](https://github.com/opencharly/pod-ollama)**, at
+> `.agents/skills/ollama-layer/SKILL.md`, present on `pod-ollama` `main` and at tag
+> `v2026.295.1812` (commit `612357b`, moved in
+> [pod-ollama#7](https://github.com/opencharly/pod-ollama/pull/7)).
+>
+> The umbrella no longer pins this repo
+> ([opencharly#610](https://github.com/opencharly/opencharly/pull/610), merged) and the
+> marketplace refs list no longer names it as a source
+> ([marketplace#538](https://github.com/opencharly/marketplace/pull/538), merged). A repo whose
+> only content is skills is not a class (`AGENTS.md`, "Repo classes and naming"), which is the
+> rule that retires it.
+>
+> **Read `pod-ollama` instead.** Nothing in this repo is current; the text below is kept only
+> as the record of what this carrier used to be.
+
 The `charly-ollama` family — the owning skill for the Ollama LLM-server layer.
 
 The `charly-ollama` candy is a **concept candy**: it ships no install content and
